@@ -44,6 +44,6 @@ and you should put this line in the activity onActivityResult method
 3.
 	and to start the chooser, you have to call
 			chooser.onStartCameraGalleryRequest();
-
-4. enjoy
+4.
+enjoy
 
