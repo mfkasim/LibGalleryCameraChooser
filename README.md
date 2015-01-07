@@ -33,7 +33,7 @@ first of all, you need to create a chooser object
 2.
 and you should put this line in the activity onActivityResult method
 
-protected void onActivityResult(int arg0, int arg1, android.content.Intent arg2) {
+	protected void onActivityResult(int arg0, int arg1, android.content.Intent arg2) {
 
 		super.onActivityResult(arg0, arg1, arg2);
 
